@@ -11,8 +11,8 @@ A validação foi feita com **ping** e envio de pacotes entre os dispositivos, g
 - **Switches de acesso** conectados a cada roteador para distribuir a rede aos PCs.  
 - **Múltiplos PCs e um servidor** simulando hosts em diferentes redes.  
 
-📌 *Espaço reservado para a imagem da topologia:*  
-👉 ![Topologia](inserir_imagem_aqui.png)
+📌
+ ![Topologia](img-demostrativa.png)
 
 ---
 
